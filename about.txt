@@ -16,7 +16,7 @@ Standard Positioning Service (SPS) and
 Restricted Service (RS). 
 The system can offer a position accuracy of more than 20 m within India which is the primary area of service.
 The IRNSS is being constructed by the Indian Space Research Organisation (ISRO) and is wholly under the Indian government’s control. The need for such a system of navigation is that the availability of global satellite navigation systems like the GPS is not assured in hostile conditions.
-
+bhuwan
 Commercialization of NavIC
 Antrix, the commercial arm of ISRO has floated two separate tenders to identify industries that can develop dedicated NavIC-based hardware and systems.
 Suitable device manufacturers are being identified along with integrators of NavIC-based systems.
