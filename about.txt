@@ -1,0 +1,54 @@
+What is NavIC?
+It is an Indian Regional Navigation Satellite System or IRNSS.
+It was developed in India by Indian Space Research Organisation (ISRO) and its commercial wing ANTRIX.
+It consists of 8 satellites located at a distance of approximately 36,000 Km. Currently, 7 satellites are active.
+3 satellites are in Geostationary Orbit (GEO)
+5 satellites are in inclined Geosynchronous Orbit (GSO)
+The objective of the NavIC is to provide navigation, timing, and reliable positioning services in and around India.
+Working of the NavIC is very similar to the Global Positioning System(GPS) implemented by the United States. 
+The NavIC is certified by 3GPP (3rd Generation Partnership Project) which is responsible for coordinating mobile telephony standards globally.
+Indian Regional Navigation Satellite System (IRNSS)
+It is an independent regional navigational satellite system developed by India.
+Objective:
+It is being designed to give precise position data service to users located in India and also to users in the area out-spreading up to 1500 Km from India’s boundary.
+The two kinds of services provided by IRNSS will be: 
+Standard Positioning Service (SPS) and 
+Restricted Service (RS). 
+The system can offer a position accuracy of more than 20 m within India which is the primary area of service.
+The IRNSS is being constructed by the Indian Space Research Organisation (ISRO) and is wholly under the Indian government’s control. The need for such a system of navigation is that the availability of global satellite navigation systems like the GPS is not assured in hostile conditions.
+
+Commercialization of NavIC
+Antrix, the commercial arm of ISRO has floated two separate tenders to identify industries that can develop dedicated NavIC-based hardware and systems.
+Suitable device manufacturers are being identified along with integrators of NavIC-based systems.
+NAVIC is being commercialized for the following reasons :
+Navigation (Aerial, marines and terrestrial)
+Maps (Charting, Plotting and Geodetic data capture)
+Disaster Management 
+Fleet Management and Vehicle Tracking (important during mining and transport operations)
+Mobile phone integration
+Precise timing (useful for power grids and ATMs)
+The Ministry of Road Transport and Highways has mandated that all national-permit vehicles must have such tracking devices. As a pilot, many fishing boats have been fitted with these devices that have a unique texting facility.
+The 3GPP certification will allow multiple possibilities of further commercialization of NavIC.
+Click on the link to get the List of Indian Satellites for UPSC.
+
+NAVIC (Navigation with Indian Constellation) 2019
+There are a few recent developments in the NAVIC (Navigation with Indian Constellation) according to ISRO:
+
+The leading semiconductor manufacturer Qualcomm Technologies Inc. developed and tested NavIC-friendly chipsets.
+This will help NAVIC support upcoming Automotive, Mobile and IoT applications and platforms.
+The collaboration will enable superior location-based services to India’s industries and technology ecosystem.
+NAVIC vs GPS
+Parameter	NavIC	GPS
+Accuracy	Up to 5 meters	Up to 20-30 meters
+Frequency	S-band and L-Band	L- Band
+The use of dual-frequency, both S and L Frequency Bands makes NavIC independent of using any delay-causing frequency models to detect frequency error.
+
+Countries with their own Navigation Satellite System
+Some of the countries provide navigation systems on a global scale, some of them provide navigation on a regional scale. The following countries have their own navigation satellite system.
+
+The United States Global Positioning System (GPS) – World’s most used GPS system, operational from 1978. Constellation of 32 satellites.
+Russian GLONASS – It provides global coverage. It has a total of 26 satellites.
+European Union Galileo – Became operational in 2016, with a constellation of 30 satellites.
+Chinese BeiDou – Currently it provides regional coverage of the Asia- Pacific region, plans to provide global coverage by 2020. It has a total of 35 satellites.
+Japanese Quasi-Zenith Satellite System (QZSS) – It is a regional satellite system covering Japan and the Asia-Oceania region. It has a total of 4 satellites, 7 are planned.
+India (IRNSS-NAVIC) – Constellation of 8 Satellites.
